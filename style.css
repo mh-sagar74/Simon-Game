@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #dbe4ee;
+    font-family: Monospace;
+    font-size: large;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: #fca311;
+}
+
+.red{
+    background-color: #d62828;
+}
+
+.purple{
+    background-color: #592e83;
+}
+
+.green{
+    background-color: #52796f;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: #affc41;
+}
+
+#startGame{
+    background-color: #ff9505;
+    font-family: Monospace;
+    font-size: large;
+}
+
+#resetGame{
+    height: 50px;
+    width: 80px;;
+    background-color: #c71f37;
+    color: white;
+    font-family: Monospace;
+    font-size: large;
+}
+
+#me{
+    font-size: small;
+    position: static;
+}
