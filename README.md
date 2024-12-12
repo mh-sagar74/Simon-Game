@@ -1,2 +1,2 @@
-# Simon-Game
+# Simon-Game.
 Simon-Game based on JS
